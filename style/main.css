@@ -99,12 +99,12 @@ h1 span {
 
 .promo-left {
     padding: 116px 50px;
-    background-image: url("../image/left.png");
+    background-image: url(../image/left.png);
 }
 
 .promo-right {
     padding: 102px 50px;
-    background-image: url("../image/right.png");
+    background-image: url(../image/right.png);
 }
 
 .sale {
